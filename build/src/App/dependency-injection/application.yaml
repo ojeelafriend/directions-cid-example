@@ -1,0 +1,3 @@
+services:
+  service.direction:
+    class: '../../Direction/application/DirectionCreator'
